@@ -1,0 +1,1232 @@
+[
+    {
+        "plane_name": "Aerospatiale (Nord) 262",
+        "iata_plane": "ND2",
+        "icao_plane": "N262"
+    },
+    {
+        "plane_name": "Aerospatiale (Sud Aviation) Se.210 Caravelle",
+        "iata_plane": "CRV",
+        "icao_plane": "S210"
+    },
+    {
+        "plane_name": "Aerospatiale SN.601 Corvette",
+        "iata_plane": "NDC",
+        "icao_plane": "S601"
+    },
+    {
+        "plane_name": "Aerospatiale/Alenia ATR 42-300",
+        "iata_plane": "AT4",
+        "icao_plane": "AT43"
+    },
+    {
+        "plane_name": "Aerospatiale/Alenia ATR 42-500",
+        "iata_plane": "AT5",
+        "icao_plane": "AT45"
+    },
+    {
+        "plane_name": "Aerospatiale/Alenia ATR 42-600",
+        "iata_plane": "ATR",
+        "icao_plane": "AT46"
+    },
+    {
+        "plane_name": "Aerospatiale/Alenia ATR 72",
+        "iata_plane": "AT7",
+        "icao_plane": "AT72"
+    },
+    {
+        "plane_name": "Airbus A300",
+        "iata_plane": "AB3",
+        "icao_plane": "A30B"
+    },
+    {
+        "plane_name": "Airbus A300-600",
+        "iata_plane": "AB6",
+        "icao_plane": "A306"
+    },
+    {
+        "plane_name": "Airbus A300-600ST Super Transporter / Beluga",
+        "iata_plane": "ABB",
+        "icao_plane": "A3ST"
+    },
+    {
+        "plane_name": "Airbus A310",
+        "iata_plane": "310",
+        "icao_plane": "A310"
+    },
+    {
+        "plane_name": "Airbus A318",
+        "iata_plane": "318",
+        "icao_plane": "A318"
+    },
+    {
+        "plane_name": "Airbus A319",
+        "iata_plane": "319",
+        "icao_plane": "A319"
+    },
+    {
+        "plane_name": "Airbus A319neo",
+        "iata_plane": "31N",
+        "icao_plane": "A19N"
+    },
+    {
+        "plane_name": "Airbus A320",
+        "iata_plane": "320",
+        "icao_plane": "A320"
+    },
+    {
+        "plane_name": "Airbus A320neo",
+        "iata_plane": "32N",
+        "icao_plane": "A20N"
+    },
+    {
+        "plane_name": "Airbus A321",
+        "iata_plane": "321",
+        "icao_plane": "A321"
+    },
+    {
+        "plane_name": "Airbus A321neo",
+        "iata_plane": "32Q",
+        "icao_plane": "A21N"
+    },
+    {
+        "plane_name": "Airbus A330",
+        "iata_plane": "330",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Airbus A330-200",
+        "iata_plane": "332",
+        "icao_plane": "A332"
+    },
+    {
+        "plane_name": "Airbus A330-300",
+        "iata_plane": "333",
+        "icao_plane": "A333"
+    },
+    {
+        "plane_name": "Airbus A330-700 Beluga XL",
+        "iata_plane": "\\N",
+        "icao_plane": "A337"
+    },
+    {
+        "plane_name": "Airbus A330-800neo",
+        "iata_plane": "338",
+        "icao_plane": "A338"
+    },
+    {
+        "plane_name": "Airbus A330-900neo",
+        "iata_plane": "339",
+        "icao_plane": "A339"
+    },
+    {
+        "plane_name": "Airbus A340",
+        "iata_plane": "340",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Airbus A340-200",
+        "iata_plane": "342",
+        "icao_plane": "A342"
+    },
+    {
+        "plane_name": "Airbus A340-300",
+        "iata_plane": "343",
+        "icao_plane": "A343"
+    },
+    {
+        "plane_name": "Airbus A340-500",
+        "iata_plane": "345",
+        "icao_plane": "A345"
+    },
+    {
+        "plane_name": "Airbus A340-600",
+        "iata_plane": "346",
+        "icao_plane": "A346"
+    },
+    {
+        "plane_name": "Airbus A350",
+        "iata_plane": "350",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Airbus A350-1000",
+        "iata_plane": "351",
+        "icao_plane": "A35K"
+    },
+    {
+        "plane_name": "Airbus A350-900",
+        "iata_plane": "359",
+        "icao_plane": "A359"
+    },
+    {
+        "plane_name": "Airbus A380",
+        "iata_plane": "380",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Airbus A380-800",
+        "iata_plane": "388",
+        "icao_plane": "A388"
+    },
+    {
+        "plane_name": "Antonov AN-12",
+        "iata_plane": "ANF",
+        "icao_plane": "AN12"
+    },
+    {
+        "plane_name": "Antonov AN-124 Ruslan",
+        "iata_plane": "A4F",
+        "icao_plane": "A124"
+    },
+    {
+        "plane_name": "Antonov AN-140",
+        "iata_plane": "A40",
+        "icao_plane": "A140"
+    },
+    {
+        "plane_name": "Antonov An-148",
+        "iata_plane": "A81",
+        "icao_plane": "A148"
+    },
+    {
+        "plane_name": "Antonov An-158",
+        "iata_plane": "A58",
+        "icao_plane": "A158"
+    },
+    {
+        "plane_name": "Antonov An-225 Mriya",
+        "iata_plane": "A25",
+        "icao_plane": "A225"
+    },
+    {
+        "plane_name": "Antonov AN-24",
+        "iata_plane": "AN4",
+        "icao_plane": "AN24"
+    },
+    {
+        "plane_name": "Antonov AN-26",
+        "iata_plane": "A26",
+        "icao_plane": "AN26"
+    },
+    {
+        "plane_name": "Antonov AN-28",
+        "iata_plane": "A28",
+        "icao_plane": "AN28"
+    },
+    {
+        "plane_name": "Antonov AN-30",
+        "iata_plane": "A30",
+        "icao_plane": "AN30"
+    },
+    {
+        "plane_name": "Antonov AN-32",
+        "iata_plane": "A32",
+        "icao_plane": "AN32"
+    },
+    {
+        "plane_name": "Antonov AN-72",
+        "iata_plane": "AN7",
+        "icao_plane": "AN72"
+    },
+    {
+        "plane_name": "Avro RJ100",
+        "iata_plane": "AR1",
+        "icao_plane": "RJ1H"
+    },
+    {
+        "plane_name": "Avro RJ70",
+        "iata_plane": "AR7",
+        "icao_plane": "RJ70"
+    },
+    {
+        "plane_name": "Avro RJ85",
+        "iata_plane": "AR8",
+        "icao_plane": "RJ85"
+    },
+    {
+        "plane_name": "BAe 146",
+        "iata_plane": "146",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "BAe 146-100",
+        "iata_plane": "141",
+        "icao_plane": "B461"
+    },
+    {
+        "plane_name": "BAe 146-200",
+        "iata_plane": "142",
+        "icao_plane": "B462"
+    },
+    {
+        "plane_name": "BAe 146-300",
+        "iata_plane": "143",
+        "icao_plane": "B463"
+    },
+    {
+        "plane_name": "Beechcraft 1900",
+        "iata_plane": "BEH",
+        "icao_plane": "B190"
+    },
+    {
+        "plane_name": "Beechcraft Baron",
+        "iata_plane": "\\N",
+        "icao_plane": "BE58"
+    },
+    {
+        "plane_name": "Beechcraft Baron / 55 Baron",
+        "iata_plane": "\\N",
+        "icao_plane": "BE55"
+    },
+    {
+        "plane_name": "Bell 212",
+        "iata_plane": "BH2",
+        "icao_plane": "B212"
+    },
+    {
+        "plane_name": "Boeing 707",
+        "iata_plane": "703",
+        "icao_plane": "B703"
+    },
+    {
+        "plane_name": "Boeing 717",
+        "iata_plane": "717",
+        "icao_plane": "B712"
+    },
+    {
+        "plane_name": "Boeing 720B",
+        "iata_plane": "B72",
+        "icao_plane": "B720"
+    },
+    {
+        "plane_name": "Boeing 727",
+        "iata_plane": "727",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Boeing 727-100",
+        "iata_plane": "721",
+        "icao_plane": "B721"
+    },
+    {
+        "plane_name": "Boeing 727-200",
+        "iata_plane": "722",
+        "icao_plane": "B722"
+    },
+    {
+        "plane_name": "Boeing 737",
+        "iata_plane": "737",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Boeing 737 MAX 10",
+        "iata_plane": "7MJ",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Boeing 737 MAX 7",
+        "iata_plane": "7M7",
+        "icao_plane": "B37M"
+    },
+    {
+        "plane_name": "Boeing 737 MAX 8",
+        "iata_plane": "7M8",
+        "icao_plane": "B38M"
+    },
+    {
+        "plane_name": "Boeing 737 MAX 9",
+        "iata_plane": "7M9",
+        "icao_plane": "B39M"
+    },
+    {
+        "plane_name": "Boeing 737-200",
+        "iata_plane": "732",
+        "icao_plane": "B732"
+    },
+    {
+        "plane_name": "Boeing 737-300",
+        "iata_plane": "733",
+        "icao_plane": "B733"
+    },
+    {
+        "plane_name": "Boeing 737-400",
+        "iata_plane": "734",
+        "icao_plane": "B734"
+    },
+    {
+        "plane_name": "Boeing 737-500",
+        "iata_plane": "735",
+        "icao_plane": "B735"
+    },
+    {
+        "plane_name": "Boeing 737-600",
+        "iata_plane": "736",
+        "icao_plane": "B736"
+    },
+    {
+        "plane_name": "Boeing 737-700",
+        "iata_plane": "73G",
+        "icao_plane": "B737"
+    },
+    {
+        "plane_name": "Boeing 737-800",
+        "iata_plane": "738",
+        "icao_plane": "B738"
+    },
+    {
+        "plane_name": "Boeing 737-900",
+        "iata_plane": "739",
+        "icao_plane": "B739"
+    },
+    {
+        "plane_name": "Boeing 747",
+        "iata_plane": "747",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Boeing 747 LCF Dreamlifter",
+        "iata_plane": "74B",
+        "icao_plane": "BLCF"
+    },
+    {
+        "plane_name": "Boeing 747-100",
+        "iata_plane": "741",
+        "icao_plane": "B741"
+    },
+    {
+        "plane_name": "Boeing 747-200",
+        "iata_plane": "742",
+        "icao_plane": "B742"
+    },
+    {
+        "plane_name": "Boeing 747-300",
+        "iata_plane": "743",
+        "icao_plane": "B743"
+    },
+    {
+        "plane_name": "Boeing 747-400",
+        "iata_plane": "744",
+        "icao_plane": "B744"
+    },
+    {
+        "plane_name": "Boeing 747-400D",
+        "iata_plane": "74J",
+        "icao_plane": "B74D"
+    },
+    {
+        "plane_name": "Boeing 747-8",
+        "iata_plane": "748",
+        "icao_plane": "B748"
+    },
+    {
+        "plane_name": "Boeing 747SP",
+        "iata_plane": "74L",
+        "icao_plane": "B74S"
+    },
+    {
+        "plane_name": "Boeing 747SR",
+        "iata_plane": "74R",
+        "icao_plane": "B74R"
+    },
+    {
+        "plane_name": "Boeing 757",
+        "iata_plane": "757",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Boeing 757-200",
+        "iata_plane": "752",
+        "icao_plane": "B752"
+    },
+    {
+        "plane_name": "Boeing 757-300",
+        "iata_plane": "753",
+        "icao_plane": "B753"
+    },
+    {
+        "plane_name": "Boeing 767",
+        "iata_plane": "767",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Boeing 767-200",
+        "iata_plane": "762",
+        "icao_plane": "B762"
+    },
+    {
+        "plane_name": "Boeing 767-300",
+        "iata_plane": "763",
+        "icao_plane": "B763"
+    },
+    {
+        "plane_name": "Boeing 767-400",
+        "iata_plane": "764",
+        "icao_plane": "B764"
+    },
+    {
+        "plane_name": "Boeing 777",
+        "iata_plane": "777",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Boeing 777-200",
+        "iata_plane": "772",
+        "icao_plane": "B772"
+    },
+    {
+        "plane_name": "Boeing 777-200LR",
+        "iata_plane": "77L",
+        "icao_plane": "B77L"
+    },
+    {
+        "plane_name": "Boeing 777-300",
+        "iata_plane": "773",
+        "icao_plane": "B773"
+    },
+    {
+        "plane_name": "Boeing 777-300ER",
+        "iata_plane": "77W",
+        "icao_plane": "B77W"
+    },
+    {
+        "plane_name": "Boeing 777-8",
+        "iata_plane": "778",
+        "icao_plane": "B778"
+    },
+    {
+        "plane_name": "Boeing 777-9",
+        "iata_plane": "779",
+        "icao_plane": "B779"
+    },
+    {
+        "plane_name": "Boeing 787",
+        "iata_plane": "787",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Boeing 787-10",
+        "iata_plane": "78J",
+        "icao_plane": "B78X"
+    },
+    {
+        "plane_name": "Boeing 787-8",
+        "iata_plane": "788",
+        "icao_plane": "B788"
+    },
+    {
+        "plane_name": "Boeing 787-9",
+        "iata_plane": "789",
+        "icao_plane": "B789"
+    },
+    {
+        "plane_name": "Bombardier 415",
+        "iata_plane": "\\N",
+        "icao_plane": "CL2T"
+    },
+    {
+        "plane_name": "Bombardier BD-100 Challenger 300",
+        "iata_plane": "\\N",
+        "icao_plane": "CL30"
+    },
+    {
+        "plane_name": "Bombardier CS100",
+        "iata_plane": "CS1",
+        "icao_plane": "BCS1"
+    },
+    {
+        "plane_name": "Bombardier CS300",
+        "iata_plane": "CS3",
+        "icao_plane": "BCS3"
+    },
+    {
+        "plane_name": "Bombardier Global Express",
+        "iata_plane": "CCX",
+        "icao_plane": "GLEX"
+    },
+    {
+        "plane_name": "British Aerospace (BAC) One Eleven",
+        "iata_plane": "B11",
+        "icao_plane": "BA11"
+    },
+    {
+        "plane_name": "British Aerospace 125 series / Hawker/Raytheon 700/800/800XP/850/900",
+        "iata_plane": "H25",
+        "icao_plane": "H25B"
+    },
+    {
+        "plane_name": "British Aerospace 125-1000 series / Hawker/Raytheon 1000",
+        "iata_plane": "H25",
+        "icao_plane": "H25C"
+    },
+    {
+        "plane_name": "British Aerospace ATP",
+        "iata_plane": "ATP",
+        "icao_plane": "ATP"
+    },
+    {
+        "plane_name": "British Aerospace Jetstream 31",
+        "iata_plane": "J31",
+        "icao_plane": "JS31"
+    },
+    {
+        "plane_name": "British Aerospace Jetstream 32",
+        "iata_plane": "J32",
+        "icao_plane": "JS32"
+    },
+    {
+        "plane_name": "British Aerospace Jetstream 41",
+        "iata_plane": "J41",
+        "icao_plane": "JS41"
+    },
+    {
+        "plane_name": "Canadair Challenger",
+        "iata_plane": "CCJ",
+        "icao_plane": "CL60"
+    },
+    {
+        "plane_name": "Canadair CL-44",
+        "iata_plane": "CL4",
+        "icao_plane": "CL44"
+    },
+    {
+        "plane_name": "Canadair Regional Jet 100",
+        "iata_plane": "CR1",
+        "icao_plane": "CRJ1"
+    },
+    {
+        "plane_name": "Canadair Regional Jet 1000",
+        "iata_plane": "CRK",
+        "icao_plane": "CRJX"
+    },
+    {
+        "plane_name": "Canadair Regional Jet 200",
+        "iata_plane": "CR2",
+        "icao_plane": "CRJ2"
+    },
+    {
+        "plane_name": "Canadair Regional Jet 700",
+        "iata_plane": "CR7",
+        "icao_plane": "CRJ7"
+    },
+    {
+        "plane_name": "Canadair Regional Jet 900",
+        "iata_plane": "CR9",
+        "icao_plane": "CRJ9"
+    },
+    {
+        "plane_name": "Cessna 152",
+        "iata_plane": "\\N",
+        "icao_plane": "C152"
+    },
+    {
+        "plane_name": "Cessna 172",
+        "iata_plane": "CN1",
+        "icao_plane": "C172"
+    },
+    {
+        "plane_name": "Cessna 182 Skylane",
+        "iata_plane": "CN1",
+        "icao_plane": "C182"
+    },
+    {
+        "plane_name": "Cessna 208 Caravan",
+        "iata_plane": "CN1",
+        "icao_plane": "C208"
+    },
+    {
+        "plane_name": "Cessna 210 Centurion",
+        "iata_plane": "CN1",
+        "icao_plane": "C210"
+    },
+    {
+        "plane_name": "Cessna Citation CJ3",
+        "iata_plane": "CNJ",
+        "icao_plane": "C25B"
+    },
+    {
+        "plane_name": "Cessna Citation CJ4",
+        "iata_plane": "CNJ",
+        "icao_plane": "C25C"
+    },
+    {
+        "plane_name": "Cessna Citation Excel",
+        "iata_plane": "CNJ",
+        "icao_plane": "C56X"
+    },
+    {
+        "plane_name": "Cessna Citation I",
+        "iata_plane": "CNJ",
+        "icao_plane": "C500"
+    },
+    {
+        "plane_name": "Cessna Citation II",
+        "iata_plane": "CNJ",
+        "icao_plane": "C550"
+    },
+    {
+        "plane_name": "Cessna Citation Mustang",
+        "iata_plane": "CNJ",
+        "icao_plane": "C510"
+    },
+    {
+        "plane_name": "Cessna Citation Sovereign",
+        "iata_plane": "CNJ",
+        "icao_plane": "C680"
+    },
+    {
+        "plane_name": "Cessna Citation X",
+        "iata_plane": "CNJ",
+        "icao_plane": "C750"
+    },
+    {
+        "plane_name": "COMAC C-919",
+        "iata_plane": "\\N",
+        "icao_plane": "C919"
+    },
+    {
+        "plane_name": "Concorde",
+        "iata_plane": "SSC",
+        "icao_plane": "CONC"
+    },
+    {
+        "plane_name": "Dassault Falcon 2000",
+        "iata_plane": "D20",
+        "icao_plane": "F2TH"
+    },
+    {
+        "plane_name": "Dassault Falcon 50",
+        "iata_plane": "DF3",
+        "icao_plane": "FA50"
+    },
+    {
+        "plane_name": "Dassault Falcon 7X",
+        "iata_plane": "DF7",
+        "icao_plane": "FA7X"
+    },
+    {
+        "plane_name": "Dassault Falcon 900",
+        "iata_plane": "DF9",
+        "icao_plane": "F900"
+    },
+    {
+        "plane_name": "De Havilland Canada DHC-2 Beaver",
+        "iata_plane": "DHP",
+        "icao_plane": "DHC2"
+    },
+    {
+        "plane_name": "De Havilland Canada DHC-2 Turbo-Beaver",
+        "iata_plane": "DHR",
+        "icao_plane": "DH2T"
+    },
+    {
+        "plane_name": "De Havilland Canada DHC-3 Otter",
+        "iata_plane": "DHL",
+        "icao_plane": "DHC3"
+    },
+    {
+        "plane_name": "De Havilland Canada DHC-4 Caribou",
+        "iata_plane": "DHC",
+        "icao_plane": "DHC4"
+    },
+    {
+        "plane_name": "De Havilland Canada DHC-6 Twin Otter",
+        "iata_plane": "DHT",
+        "icao_plane": "DHC6"
+    },
+    {
+        "plane_name": "De Havilland Canada DHC-7 Dash 7",
+        "iata_plane": "DH7",
+        "icao_plane": "DHC7"
+    },
+    {
+        "plane_name": "De Havilland Canada DHC-8-100 Dash 8 / 8Q",
+        "iata_plane": "DH1",
+        "icao_plane": "DH8A"
+    },
+    {
+        "plane_name": "De Havilland Canada DHC-8-200 Dash 8 / 8Q",
+        "iata_plane": "DH2",
+        "icao_plane": "DH8B"
+    },
+    {
+        "plane_name": "De Havilland Canada DHC-8-300 Dash 8",
+        "iata_plane": "DH3",
+        "icao_plane": "DH8C"
+    },
+    {
+        "plane_name": "De Havilland Canada DHC-8-400 Dash 8Q",
+        "iata_plane": "DH4",
+        "icao_plane": "DH8D"
+    },
+    {
+        "plane_name": "De Havilland DH.104 Dove",
+        "iata_plane": "DHD",
+        "icao_plane": "DOVE"
+    },
+    {
+        "plane_name": "De Havilland DH.114 Heron",
+        "iata_plane": "DHH",
+        "icao_plane": "HERN"
+    },
+    {
+        "plane_name": "Douglas DC-10",
+        "iata_plane": "D10",
+        "icao_plane": "DC10"
+    },
+    {
+        "plane_name": "Douglas DC-3",
+        "iata_plane": "D3F",
+        "icao_plane": "DC3"
+    },
+    {
+        "plane_name": "Douglas DC-6",
+        "iata_plane": "D6F",
+        "icao_plane": "DC6"
+    },
+    {
+        "plane_name": "Douglas DC-8-50",
+        "iata_plane": "D8T",
+        "icao_plane": "DC85"
+    },
+    {
+        "plane_name": "Douglas DC-8-62",
+        "iata_plane": "D8L",
+        "icao_plane": "DC86"
+    },
+    {
+        "plane_name": "Douglas DC-8-72",
+        "iata_plane": "D8Q",
+        "icao_plane": "DC87"
+    },
+    {
+        "plane_name": "Douglas DC-9-10",
+        "iata_plane": "D91",
+        "icao_plane": "DC91"
+    },
+    {
+        "plane_name": "Douglas DC-9-20",
+        "iata_plane": "D92",
+        "icao_plane": "DC92"
+    },
+    {
+        "plane_name": "Douglas DC-9-30",
+        "iata_plane": "D93",
+        "icao_plane": "DC93"
+    },
+    {
+        "plane_name": "Douglas DC-9-40",
+        "iata_plane": "D94",
+        "icao_plane": "DC94"
+    },
+    {
+        "plane_name": "Douglas DC-9-50",
+        "iata_plane": "D95",
+        "icao_plane": "DC95"
+    },
+    {
+        "plane_name": "Embraer 170",
+        "iata_plane": "E70",
+        "icao_plane": "E170"
+    },
+    {
+        "plane_name": "Embraer 175",
+        "iata_plane": "E75",
+        "icao_plane": "\\N"
+    },
+    {
+        "plane_name": "Embraer 175 (long wing)",
+        "iata_plane": "E7W",
+        "icao_plane": "E75L"
+    },
+    {
+        "plane_name": "Embraer 175 (short wing)",
+        "iata_plane": "E7W",
+        "icao_plane": "E75S"
+    },
+    {
+        "plane_name": "Embraer 190",
+        "iata_plane": "E90",
+        "icao_plane": "E190"
+    },
+    {
+        "plane_name": "Embraer 195",
+        "iata_plane": "E95",
+        "icao_plane": "E195"
+    },
+    {
+        "plane_name": "Embraer E190-E2",
+        "iata_plane": "290",
+        "icao_plane": "E290"
+    },
+    {
+        "plane_name": "Embraer E195-E2",
+        "iata_plane": "295",
+        "icao_plane": "E295"
+    },
+    {
+        "plane_name": "Embraer EMB 110 Bandeirante",
+        "iata_plane": "EMB",
+        "icao_plane": "E110"
+    },
+    {
+        "plane_name": "Embraer EMB 120 Brasilia",
+        "iata_plane": "EM2",
+        "icao_plane": "E120"
+    },
+    {
+        "plane_name": "Embraer Legacy 450",
+        "iata_plane": "\\N",
+        "icao_plane": "E545"
+    },
+    {
+        "plane_name": "Embraer Legacy 600",
+        "iata_plane": "ER3",
+        "icao_plane": "E35L"
+    },
+    {
+        "plane_name": "Embraer Phenom 100",
+        "iata_plane": "EP1",
+        "icao_plane": "E50P"
+    },
+    {
+        "plane_name": "Embraer Phenom 300",
+        "iata_plane": "EP3",
+        "icao_plane": "E55P"
+    },
+    {
+        "plane_name": "Embraer RJ135",
+        "iata_plane": "ER3",
+        "icao_plane": "E135"
+    },
+    {
+        "plane_name": "Embraer RJ140",
+        "iata_plane": "ERD",
+        "icao_plane": "E135"
+    },
+    {
+        "plane_name": "Embraer RJ145",
+        "iata_plane": "ER4",
+        "icao_plane": "E145"
+    },
+    {
+        "plane_name": "Fairchild Dornier 328JET",
+        "iata_plane": "FRJ",
+        "icao_plane": "J328"
+    },
+    {
+        "plane_name": "Fairchild Dornier Do.228",
+        "iata_plane": "D28",
+        "icao_plane": "D228"
+    },
+    {
+        "plane_name": "Fairchild Dornier Do.328",
+        "iata_plane": "D38",
+        "icao_plane": "D328"
+    },
+    {
+        "plane_name": "Fokker 100",
+        "iata_plane": "100",
+        "icao_plane": "F100"
+    },
+    {
+        "plane_name": "Fokker 50",
+        "iata_plane": "F50",
+        "icao_plane": "F50"
+    },
+    {
+        "plane_name": "Fokker 70",
+        "iata_plane": "F70",
+        "icao_plane": "F70"
+    },
+    {
+        "plane_name": "Fokker F27 Friendship",
+        "iata_plane": "F27",
+        "icao_plane": "F27"
+    },
+    {
+        "plane_name": "Fokker F28 Fellowship",
+        "iata_plane": "F21",
+        "icao_plane": "F28"
+    },
+    {
+        "plane_name": "Gulfstream Aerospace G-159 Gulfstream I",
+        "iata_plane": "GRS",
+        "icao_plane": "G159"
+    },
+    {
+        "plane_name": "Gulfstream G280",
+        "iata_plane": "GR3",
+        "icao_plane": "G280"
+    },
+    {
+        "plane_name": "Gulfstream G650",
+        "iata_plane": "GJ6",
+        "icao_plane": "GLF6"
+    },
+    {
+        "plane_name": "Gulfstream IV",
+        "iata_plane": "GJ4",
+        "icao_plane": "GLF4"
+    },
+    {
+        "plane_name": "Gulfstream V",
+        "iata_plane": "GJ5",
+        "icao_plane": "GLF5"
+    },
+    {
+        "plane_name": "Gulfstream/Rockwell (Aero) Commander",
+        "iata_plane": "ACP",
+        "icao_plane": "AC68"
+    },
+    {
+        "plane_name": "Gulfstream/Rockwell (Aero) Turbo Commander",
+        "iata_plane": "ACT",
+        "icao_plane": "AC90"
+    },
+    {
+        "plane_name": "Harbin Yunshuji Y12",
+        "iata_plane": "YN2",
+        "icao_plane": "Y12"
+    },
+    {
+        "plane_name": "Hawker Siddeley HS 748",
+        "iata_plane": "HS7",
+        "icao_plane": "A748"
+    },
+    {
+        "plane_name": "Ilyushin IL114",
+        "iata_plane": "I14",
+        "icao_plane": "I114"
+    },
+    {
+        "plane_name": "Ilyushin IL18",
+        "iata_plane": "IL8",
+        "icao_plane": "IL18"
+    },
+    {
+        "plane_name": "Ilyushin IL62",
+        "iata_plane": "IL6",
+        "icao_plane": "IL62"
+    },
+    {
+        "plane_name": "Ilyushin IL76",
+        "iata_plane": "IL7",
+        "icao_plane": "IL76"
+    },
+    {
+        "plane_name": "Ilyushin IL86",
+        "iata_plane": "ILW",
+        "icao_plane": "IL86"
+    },
+    {
+        "plane_name": "Ilyushin IL96",
+        "iata_plane": "I93",
+        "icao_plane": "IL96"
+    },
+    {
+        "plane_name": "Learjet 35",
+        "iata_plane": "LRJ",
+        "icao_plane": "LJ35"
+    },
+    {
+        "plane_name": "Learjet 60",
+        "iata_plane": "LRJ",
+        "icao_plane": "LJ60"
+    },
+    {
+        "plane_name": "Lockheed L-1011 Tristar",
+        "iata_plane": "L10",
+        "icao_plane": "L101"
+    },
+    {
+        "plane_name": "Lockheed L-1049 Super Constellation",
+        "iata_plane": "L49",
+        "icao_plane": "CONI"
+    },
+    {
+        "plane_name": "Lockheed L-182 / 282 / 382 (L-100) Hercules",
+        "iata_plane": "LOH",
+        "icao_plane": "C130"
+    },
+    {
+        "plane_name": "Lockheed L-188 Electra",
+        "iata_plane": "LOE",
+        "icao_plane": "L188"
+    },
+    {
+        "plane_name": "McDonnell Douglas MD-11",
+        "iata_plane": "M11",
+        "icao_plane": "MD11"
+    },
+    {
+        "plane_name": "McDonnell Douglas MD-81",
+        "iata_plane": "M81",
+        "icao_plane": "MD81"
+    },
+    {
+        "plane_name": "McDonnell Douglas MD-82",
+        "iata_plane": "M82",
+        "icao_plane": "MD82"
+    },
+    {
+        "plane_name": "McDonnell Douglas MD-83",
+        "iata_plane": "M83",
+        "icao_plane": "MD83"
+    },
+    {
+        "plane_name": "McDonnell Douglas MD-87",
+        "iata_plane": "M87",
+        "icao_plane": "MD87"
+    },
+    {
+        "plane_name": "McDonnell Douglas MD-88",
+        "iata_plane": "M88",
+        "icao_plane": "MD88"
+    },
+    {
+        "plane_name": "McDonnell Douglas MD-90",
+        "iata_plane": "M90",
+        "icao_plane": "MD90"
+    },
+    {
+        "plane_name": "NAMC YS-11",
+        "iata_plane": "YS1",
+        "icao_plane": "YS11"
+    },
+    {
+        "plane_name": "Partenavia P.68",
+        "iata_plane": "PN6",
+        "icao_plane": "P68"
+    },
+    {
+        "plane_name": "Pilatus Britten-Norman BN-2A Mk III Trislander",
+        "iata_plane": "BNT",
+        "icao_plane": "TRIS"
+    },
+    {
+        "plane_name": "Pilatus Britten-Norman BN-2A/B Islander",
+        "iata_plane": "BNI",
+        "icao_plane": "BN2P"
+    },
+    {
+        "plane_name": "Pilatus PC-12",
+        "iata_plane": "PL2",
+        "icao_plane": "PC12"
+    },
+    {
+        "plane_name": "Pilatus PC-6 Turbo Porter",
+        "iata_plane": "PL6",
+        "icao_plane": "PC6T"
+    },
+    {
+        "plane_name": "Piper PA-28 (above 200 hp)",
+        "iata_plane": "\\N",
+        "icao_plane": "P28B"
+    },
+    {
+        "plane_name": "Piper PA-28 (up to 180 hp)",
+        "iata_plane": "\\N",
+        "icao_plane": "P28A"
+    },
+    {
+        "plane_name": "Piper PA-31 Navajo",
+        "iata_plane": "PA2",
+        "icao_plane": "PA31"
+    },
+    {
+        "plane_name": "Piper PA-44 Seminole",
+        "iata_plane": "\\N",
+        "icao_plane": "PA44"
+    },
+    {
+        "plane_name": "Piper PA-46",
+        "iata_plane": "PAG",
+        "icao_plane": "PA46"
+    },
+    {
+        "plane_name": "Saab 2000",
+        "iata_plane": "S20",
+        "icao_plane": "SB20"
+    },
+    {
+        "plane_name": "Saab SF340A/B",
+        "iata_plane": "SF3",
+        "icao_plane": "SF34"
+    },
+    {
+        "plane_name": "Shorts SC-5 Belfast",
+        "iata_plane": "SHB",
+        "icao_plane": "BELF"
+    },
+    {
+        "plane_name": "Shorts SC-7 Skyvan",
+        "iata_plane": "SHS",
+        "icao_plane": "SC7"
+    },
+    {
+        "plane_name": "Shorts SD.330",
+        "iata_plane": "SH3",
+        "icao_plane": "SH33"
+    },
+    {
+        "plane_name": "Shorts SD.360",
+        "iata_plane": "SH6",
+        "icao_plane": "SH36"
+    },
+    {
+        "plane_name": "Sikorsky S-58T",
+        "iata_plane": "S58",
+        "icao_plane": "S58T"
+    },
+    {
+        "plane_name": "Sikorsky S-61",
+        "iata_plane": "S61",
+        "icao_plane": "S61"
+    },
+    {
+        "plane_name": "Sikorsky S-76",
+        "iata_plane": "S76",
+        "icao_plane": "S76"
+    },
+    {
+        "plane_name": "Sikorsky S-92",
+        "iata_plane": "S92",
+        "icao_plane": "S92"
+    },
+    {
+        "plane_name": "Sukhoi Superjet 100-95",
+        "iata_plane": "SU9",
+        "icao_plane": "SU95"
+    },
+    {
+        "plane_name": "Tupolev Tu-134",
+        "iata_plane": "TU3",
+        "icao_plane": "T134"
+    },
+    {
+        "plane_name": "Tupolev Tu-144",
+        "iata_plane": "\\N",
+        "icao_plane": "T144"
+    },
+    {
+        "plane_name": "Tupolev Tu-154",
+        "iata_plane": "TU5",
+        "icao_plane": "T154"
+    },
+    {
+        "plane_name": "Tupolev Tu-204",
+        "iata_plane": "T20",
+        "icao_plane": "T204"
+    },
+    {
+        "plane_name": "Yakovlev Yak-40",
+        "iata_plane": "YK4",
+        "icao_plane": "YK40"
+    },
+    {
+        "plane_name": "Yakovlev Yak-42",
+        "iata_plane": "YK2",
+        "icao_plane": "YK42"
+    }
+]
